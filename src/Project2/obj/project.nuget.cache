@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "LXZZTy3QGvGxrYHdw8ugFi8mRh5LUByIcc45ZD/n1Mj5lxMd1ZB0vtavxVT8xcX3NU0m4P3cZUwMJZsEJIuyBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Project3\\Project2\\Project3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\telegram.bot\\22.0.0\\telegram.bot.22.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Project3 зависит от Telegram.Bot (>= 21.11.0), но Telegram.Bot 21.11.0 не найден. Использовано наилучшее приближенное соответствие Telegram.Bot 22.0.0.",
+      "libraryId": "Telegram.Bot",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
